@@ -29,6 +29,7 @@ The key players in this story will be the `upstream` (the original GitHub reposi
 
 ```
 git remote add upstream git@github.com:TheOdinProject/curriculum.git
+(this can be found in the main curriculum repository page on GitHub)
 ```
 
 #### Ongoing workflow
